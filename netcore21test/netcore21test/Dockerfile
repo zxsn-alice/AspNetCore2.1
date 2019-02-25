@@ -1,11 +1,11 @@
 
 
 # This stage builds the application
-FROM microsoft/dotnet:2.1-sdk AS build
+FROM microsoft/dotnet:2.1-sdk AS builder
 COPY . src
 WORKDIR src
 RUN dotnet restore
-RUN dotnet publish -c release/netcoreapp2.1/publish
+RUN dotnet publish -c release
 
 # This stages uses the output from the build
 FROM microsoft/dotnet:2.1-aspnetcore-runtime
