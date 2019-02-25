@@ -11833,11 +11833,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MyWork\\test\\test2\\AspNetCore2.1\\netcore21test\\netcore21test\\netcore21test.csproj",
+      "projectUniqueName": "D:\\MyWork\\test\\test3\\AspNetCore2.1\\netcore21test\\netcore21test\\netcore21test.csproj",
       "projectName": "netcore21test",
-      "projectPath": "D:\\MyWork\\test\\test2\\AspNetCore2.1\\netcore21test\\netcore21test\\netcore21test.csproj",
+      "projectPath": "D:\\MyWork\\test\\test3\\AspNetCore2.1\\netcore21test\\netcore21test\\netcore21test.csproj",
       "packagesPath": "C:\\Users\\iRentals\\.nuget\\packages\\",
-      "outputPath": "D:\\MyWork\\test\\test2\\AspNetCore2.1\\netcore21test\\netcore21test\\obj\\",
+      "outputPath": "D:\\MyWork\\test\\test3\\AspNetCore2.1\\netcore21test\\netcore21test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
